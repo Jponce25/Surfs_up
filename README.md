@@ -10,11 +10,11 @@ W. Avy knows the importance of analyzing a weather dataset to determine the amou
 
 1) Summary temperature statistics of June
 
-<img src="https://github.com/Jponce25/Pewlett-Hackard-Analysis/blob/d86d3e040489157f628e1d856172449172add9b1/Images/1.png" width="290">
+<img src="https://github.com/Jponce25/Surfs_up/blob/48474f35b8d06f34eb21db6d8629ade122919ca0/Images/TempJune.png" width="180">
 
 2) Summary temperature statistics of December 
 
-<img src="https://github.com/Jponce25/Pewlett-Hackard-Analysis/blob/d86d3e040489157f628e1d856172449172add9b1/Images/3.png" width="190">
+<img src="https://github.com/Jponce25/Surfs_up/blob/48474f35b8d06f34eb21db6d8629ade122919ca0/Images/TempDecember.png" width="200">
 
 The three main points observed from the analysis:
 
@@ -34,12 +34,12 @@ We run a querry to obtain the precipitation for June and December, additionally 
 
 Summary precipitation statistics
 
-<img src="https://github.com/Jponce25/Pewlett-Hackard-Analysis/blob/d86d3e040489157f628e1d856172449172add9b1/Images/3.png" width="190">
+<img src="https://github.com/Jponce25/Surfs_up/blob/48474f35b8d06f34eb21db6d8629ade122919ca0/Images/Precipitation.png" width="690">
 
 Frecuency Plots
 
-<img src="https://github.com/Jponce25/Pewlett-Hackard-Analysis/blob/d86d3e040489157f628e1d856172449172add9b1/Images/3.png" width="190">
+<img src="https://github.com/Jponce25/Surfs_up/blob/48474f35b8d06f34eb21db6d8629ade122919ca0/Images/Frequency.png" width="690">
 
 Annual Plots
 
-<img src="https://github.com/Jponce25/Pewlett-Hackard-Analysis/blob/d86d3e040489157f628e1d856172449172add9b1/Images/3.png" width="190">
+<img src="https://github.com/Jponce25/Surfs_up/blob/48474f35b8d06f34eb21db6d8629ade122919ca0/Images/AnualPlot.png" width="690">
