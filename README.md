@@ -33,10 +33,13 @@ In order to add two additional queries that allow us to gather more weather data
 We run a querry to obtain the precipitation for June and December, additionally we plot the temperatures and precipitation of a year to determine the trends and help us make an informed decision.
 
 Summary precipitation statistics
+
 <img src="https://github.com/Jponce25/Pewlett-Hackard-Analysis/blob/d86d3e040489157f628e1d856172449172add9b1/Images/3.png" width="190">
 
 Frecuency Plots
+
 <img src="https://github.com/Jponce25/Pewlett-Hackard-Analysis/blob/d86d3e040489157f628e1d856172449172add9b1/Images/3.png" width="190">
 
 Annual Plots
+
 <img src="https://github.com/Jponce25/Pewlett-Hackard-Analysis/blob/d86d3e040489157f628e1d856172449172add9b1/Images/3.png" width="190">
